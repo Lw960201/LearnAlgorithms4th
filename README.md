@@ -4,7 +4,11 @@
 
 ***
 
-BinarySearch
+## 数据结构
 
-ResizeingArrayStack
+[下压栈(ResizeingArrayStack)](https://github.com/Lw960201/LearnAlgorithms4th/tree/master/ResizeingArrayStack)
+
+## 算法
+
+[二分查找(BinarySearch)](https://github.com/Lw960201/LearnAlgorithms4th/tree/master/BinarySearch)
 
