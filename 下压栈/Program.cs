@@ -2,7 +2,10 @@
 using System.Collections;
 using System.Collections.Generic;
 
-namespace ResizeingArrayStack
+/// <summary>
+/// 下压栈：动态调整数组大小、泛型、迭代
+/// </summary>
+namespace 下压栈
 {
     class Program
     {
@@ -24,10 +27,7 @@ namespace ResizeingArrayStack
 
     }
 
-    /// <summary>
-    /// 下压栈：动态调整数组大小、泛型、迭代
-    /// </summary>
-    /// <typeparam name="T"></typeparam>
+
     public class ResizeingArrayStack<T> : IEnumerable<T>
     {
         private T[] a = new T[1];

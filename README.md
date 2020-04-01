@@ -6,9 +6,13 @@
 
 ## 数据结构
 
-[下压栈(ResizeingArrayStack)](https://github.com/Lw960201/LearnAlgorithms4th/tree/master/ResizeingArrayStack)
+下压栈：动态调整数组大小、泛型、迭代
+
+下压堆栈(链表实现)
+
+先进先出队列
 
 ## 算法
 
-[二分查找(BinarySearch)](https://github.com/Lw960201/LearnAlgorithms4th/tree/master/BinarySearch)
+二分查找：有序数组中查找不在白名单中的数字
 

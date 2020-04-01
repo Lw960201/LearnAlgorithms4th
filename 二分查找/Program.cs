@@ -3,7 +3,7 @@
 
 using System;
 
-namespace BinarySearch
+namespace 二分查找
 {
     class Program
     {
